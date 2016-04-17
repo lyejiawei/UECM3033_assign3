@@ -33,18 +33,18 @@ Figure 4: Graph of y1 against y0 with initial condition of y0=0.11, y1=1.0
 
 
 Figure 1: 
-![y0 and y1 against t (1).png]
+![y0 and y1 against t (1).png](y0 and y1 against t (1).png)
 
 
 Figure 2:
-![Prey vs Predator (1).png]
+![Prey vs Predator (1).png](Prey vs Predator (1).png) 
 
 
 Figure 3:
-![y0 and y1 against t (2).png]
+![y0 and y1 against t (2).png](y0 and y1 against t (2).png) 
 
 Figure 4:
-![Prey vs Predator (2).png]
+![Prey vs Predator (2).png](Prey vs Predator (2).png) 
 
 
 As a conclusion, there is inverse relationship between prey and predator by the observation from the graphs. When the number of predators increases, the number of prey decreases, while other factors held constant. On the other hand, the changes in result of using different initial condition is insignificant.
